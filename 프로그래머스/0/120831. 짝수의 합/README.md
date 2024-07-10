@@ -1,10 +1,10 @@
 # [level 0] 짝수의 합 - 120831 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120831) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120831?language=python3) 
 
 ### 성능 요약
 
-메모리: 78.1 MB, 시간: 0.01 ms
+메모리: 9.96 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 10일 20:17:17
+2024년 07월 10일 13:24:33
 
 ### 문제 설명
 
