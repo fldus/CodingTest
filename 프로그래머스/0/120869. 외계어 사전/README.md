@@ -1,10 +1,10 @@
 # [level 0] 외계어 사전 - 120869 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120869) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120869?language=python3) 
 
 ### 성능 요약
 
-메모리: 73.9 MB, 시간: 0.67 ms
+메모리: 10.2 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 04일 20:56:23
+2024년 07월 24일 16:41:28
 
 ### 문제 설명
 
