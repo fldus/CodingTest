@@ -1,11 +1,9 @@
 def solution(dots):
     answer = 0
-    if func(dots[0], dots[1]) == func(dots[2], dots[3]):
-        answer = 1
-    if func(dots[0], dots[2]) == func(dots[1], dots[3]):
-        answer = 1
-    if func(dots[0], dots[3]) == func(dots[1], dots[2]):
-        answer = 1
+    i = [[0, 1, 2, 3], [0, 2, 1, 3], [0, 3, 1, 2]]
+    for a, b, c, d in i:
+        if func(dots[a], dots[b]) == func(dots[c], dots[d]):
+            answer = 1
     return answer
 
 def func(d1, d2):
