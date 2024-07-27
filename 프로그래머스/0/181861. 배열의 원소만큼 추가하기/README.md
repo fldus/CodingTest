@@ -1,10 +1,10 @@
 # [level 0] 배열의 원소만큼 추가하기 - 181861 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181861?language=python3) 
 
 ### 성능 요약
 
-메모리: 70.5 MB, 시간: 2.32 ms
+메모리: 11 MB, 시간: 0.52 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 17일 23:23:52
+2024년 07월 27일 23:09:46
 
 ### 문제 설명
 
