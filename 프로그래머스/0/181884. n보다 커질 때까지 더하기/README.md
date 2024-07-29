@@ -1,10 +1,10 @@
 # [level 0] n보다 커질 때까지 더하기 - 181884 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181884) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181884?language=python3) 
 
 ### 성능 요약
 
-메모리: 73.2 MB, 시간: 0.02 ms
+메모리: 10.1 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 04월 08일 19:12:44
+2024년 07월 29일 22:16:07
 
 ### 문제 설명
 
