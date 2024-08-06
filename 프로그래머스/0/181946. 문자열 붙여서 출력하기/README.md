@@ -1,10 +1,10 @@
 # [level 0] 문자열 붙여서 출력하기 - 181946 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181946?language=python3) 
 
 ### 성능 요약
 
-메모리: 65.2 MB, 시간: 188.34 ms
+메모리: 7.27 MB, 시간: 15.91 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 07일 22:34:01
+2024년 08월 06일 23:32:21
 
 ### 문제 설명
 
