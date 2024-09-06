@@ -1,10 +1,10 @@
 # [level 1] 정수 제곱근 판별 - 12934 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12934) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12934?language=python) 
 
 ### 성능 요약
 
-메모리: 69.3 MB, 시간: 0.04 ms
+메모리: 7.63 MB, 시간: 259.80 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 22일 23:34:03
+2024년 09월 06일 22:46:59
 
 ### 문제 설명
 
