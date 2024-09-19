@@ -1,10 +1,10 @@
 # [level 1] 수박수박수박수박수박수? - 12922 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12922) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12922?language=python3) 
 
 ### 성능 요약
 
-메모리: 82.3 MB, 시간: 3.46 ms
+메모리: 10.1 MB, 시간: 1.92 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 05월 24일 21:40:42
+2024년 09월 19일 23:21:21
 
 ### 문제 설명
 
