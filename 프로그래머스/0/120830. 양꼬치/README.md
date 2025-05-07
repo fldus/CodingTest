@@ -1,10 +1,10 @@
 # [level 0] 양꼬치 - 120830 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120830?language=c) 
 
 ### 성능 요약
 
-메모리: 9.92 MB, 시간: 0.00 ms
+메모리: 4.48 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 09일 11:38:26
+2025년 05월 07일 23:42:31
 
 ### 문제 설명
 
